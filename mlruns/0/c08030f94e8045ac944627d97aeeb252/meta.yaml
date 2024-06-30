@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/syedjunaidiqbal/Documents/learning/mlops/mlflow/mlruns/0/c08030f94e8045ac944627d97aeeb252/artifacts
+end_time: 1719696137592
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c08030f94e8045ac944627d97aeeb252
+run_name: monumental-snail-169
+run_uuid: c08030f94e8045ac944627d97aeeb252
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719696117990
+status: 3
+tags: []
+user_id: syedjunaidiqbal
